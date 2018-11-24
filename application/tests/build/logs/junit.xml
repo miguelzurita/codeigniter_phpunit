@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Temperature_converter_test" file="C:\GithubProjects\codeigniter_phpunit\application\tests\controllers\Temperature_converter_test.php" tests="5" assertions="5" failures="0" errors="0" time="0.182847">
+    <testsuite name="Temperature_converter_test::test_FtoC" tests="5" assertions="5" failures="0" errors="0" time="0.182847">
+      <testcase name="test_FtoC with data set #0" assertions="1" time="0.105802"/>
+      <testcase name="test_FtoC with data set #1" assertions="1" time="0.025114"/>
+      <testcase name="test_FtoC with data set #2" assertions="1" time="0.019032"/>
+      <testcase name="test_FtoC with data set #3" assertions="1" time="0.016448"/>
+      <testcase name="test_FtoC with data set #4" assertions="1" time="0.016452"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
